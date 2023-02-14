@@ -1,3 +1,4 @@
 test
 feature B
 feature C
+feature E
